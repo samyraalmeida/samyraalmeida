@@ -19,22 +19,8 @@
 
 <br />
 
-I'm a passionate BackEnd developer from Brazil 🇧🇷
-
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil.svg" />
-</a>
-
-I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil2.svg" />
-</a>
-
-I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag.svg" />
-</a>
-
-I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag2.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
 Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
