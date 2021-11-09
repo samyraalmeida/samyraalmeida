@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 
-<br />
-
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -24,19 +22,19 @@
 I'm a passionate BackEnd developer from Brazil 🇧🇷
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="16px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil.svg" />
 </a>
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="16px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil2.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil2.svg" />
 </a>
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="16px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag.svg" />
 </a>
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="16px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag2.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/icons8-brazil-flag2.svg" />
 </a>
 
 Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
