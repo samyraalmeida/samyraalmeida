@@ -20,7 +20,7 @@
 <br />
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil.svg" />
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
 Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
