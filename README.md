@@ -17,7 +17,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
-<br />
+<br>
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
   <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
@@ -25,7 +25,7 @@ I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br
 
 Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
 <a href="https://www.stone.com.br/">
-  <img align="center" alt="Stone Co." width="16px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" />
+  <img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" />
 </a>
 
 
@@ -34,16 +34,16 @@ I am an undergraduate student in Industrial Mathematics at Universidade Federal 
 -->
 
 ---
-**Languages and Tools:**
+#### Languages and Tools
 
-<code><img alt="C++" height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img alt="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img alt="Flask" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img alt="MQTT" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg">
+<code><img alt="C++" height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
+<code><img alt="Python" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img alt="Django" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img alt="Flask" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img alt="MQTT" height="40" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg">
 </code>
-<code><img alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+<code><img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img alt="Latex" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>
 
 <!-- backup
