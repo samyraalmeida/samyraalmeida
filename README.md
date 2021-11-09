@@ -1,4 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
+
+<br />
 
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -10,23 +12,40 @@
   <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<a href="samyravlalmeida@gmail.com">
+  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/gmail.svg" />
+</a>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 <br />
 
-I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
+I'm a passionate BackEnd developer from Brazil 🇧🇷
 
+Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
+<a href="https://www.stone.com.br/">
+  <img align="center" alt="Samyra's Spotify" width="15px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" />
+</a>
+
+
+<!--
+I am an undergraduate student in Industrial Mathematics at Universidade Federal do Ceará (UFC). In the RAITec UFC project, I am part of the innovation sector, which is responsible for project development in IoT and robotics. In addition, I have attended several scientific competitions during my school life, with a passion focused on computer competitions. I am interested in learning new technologies in Data Science, Machine Learning, IoT, and robotics fields.
+-->
+
+---
 **Languages and Tools:**
 
 <code><img alt="C++" height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img alt="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img alt="Flask" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img alt="MQTT" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg">
+</code>
 <code><img alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>
-<code><img alt="MQTT" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/5c9b6e61934c7103efa32753eb869e3cd6c5429e/assets/icons/svg/mqtt.svg">
-</code>
+
 <!-- backup
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samyraalmeida.samyraalmeida)
