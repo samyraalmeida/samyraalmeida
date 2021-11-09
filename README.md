@@ -25,11 +25,7 @@ I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 <code><img alt="Git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>
-<code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt2.svg?token=AREQ54LJOA3UX45EKE3I463BSPBNY">
-</code>
-<code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg?token=AREQ54JRMOVYIB7QU4PINTDBSPBKE">
-</code>
-<code><img alt="Latex" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/mqtt.png?token=AREQ54NO3EHVD3TSAPB6AMTBSPBPK">
+<code><img alt="MQTT" height="20" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg?token=AREQ54JRMOVYIB7QU4PINTDBSPBKE">
 </code>
 <!-- backup
 
