@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -11,18 +11,18 @@
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
-
 <br>
 
 I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br/">
   <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
-Software Developer Intern at <a href="https://www.stone.com.br/">Stone</a> 
-<a href="https://www.stone.com.br/">
-  <img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" />
-</a>
+**Talking about Personal Stuffs:**
 
+- 👨🏻‍💻 I’m currently working as Software Developer at <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
+- 💬 Ask me about anything, I am happy to help!
+- 📫 How to reach me **samyravlalmeida@gmail.com**.
+- 🚀 I’m currently learning Data Science on [udemy](https://www.udemy.com/).
 
 <!--
 I am an undergraduate student in Industrial Mathematics at Universidade Federal do Ceará (UFC). In the RAITec UFC project, I am part of the innovation sector, which is responsible for project development in IoT and robotics. In addition, I have attended several scientific competitions during my school life, with a passion focused on computer competitions. I am interested in learning new technologies in Data Science, Machine Learning, IoT, and robotics fields.
