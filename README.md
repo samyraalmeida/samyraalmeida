@@ -1,5 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 
+<a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
+</a>
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
