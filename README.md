@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 
 <a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
@@ -27,22 +27,39 @@ I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br
 - 📫 How to reach me **samyravlalmeida@gmail.com**.
 - 🚀 I’m currently learning Data Science on [udemy](https://www.udemy.com/).
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samyraalmeida&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <!--
-I am an undergraduate student in Industrial Mathematics at Universidade Federal do Ceará (UFC). In the RAITec UFC project, I am part of the innovation sector, which is responsible for project development in IoT and robotics. In addition, I have attended several scientific competitions during my school life, with a passion focused on computer competitions. I am interested in learning new technologies in Data Science, Machine Learning, IoT, and robotics fields.
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samyraalmeida)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/samyraalmeida/github-readme-stats)
 -->
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left"> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
+    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+    <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
+ </details>
 
----
-### Languages and Tools
+#### Github stats
 
-<code><img alt="C++" height="30" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img alt="Python" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Django" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img alt="Flask" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img alt="MQTT" height="30" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/mqtt.svg">
-</code>
-<code><img alt="Git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img alt="Latex" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>
+<img src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&theme=midnight-purple&text_color=5ec4ba" alt="samyraalmeida" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&layout=compact&theme=midnight-purple)](https://github.com/samyraalmeida/github-readme-stats)
+
 
 <!-- backup
 
