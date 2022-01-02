@@ -22,7 +22,7 @@ Sou uma desenvolvedora BackEnd do Brasil <a href="#">
   <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
-**Falando sobre algumas coisas pessoais:**
+**Algumas coisas sobre mim:**
 
 - 👩🏻‍💻 Trabalho como Desenvolvedora de Software na <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
 - 👩🏻‍🎓 Sou estudante de Matemática Industrial na [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
