@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here!
 
 <a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
@@ -31,11 +31,6 @@ I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samyraalmeida&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samyraalmeida)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/samyraalmeida/github-readme-stats)
--->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -53,15 +48,19 @@ I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
  </details>
 
-#### Github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&theme=midnight-purple&text_color=5ec4ba" alt="samyraalmeida" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&layout=compact&theme=midnight-purple)](https://github.com/samyraalmeida/github-readme-stats)
-
+<details>
+  <summary><b>📈&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b></summary>
+  <br/>
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&text_color=5ec4ba" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple&text_color=5ec4ba" />
+  </p>
+</details>
 
 <!-- backup
+
+<img src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&theme=midnight-purple&text_color=5ec4ba" alt="samyraalmeida" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&layout=compact&theme=midnight-purple)](https://github.com/samyraalmeida/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=samyraalmeida.samyraalmeida)
 
