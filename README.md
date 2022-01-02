@@ -22,8 +22,8 @@ I'm a passionate BackEnd developer from Brazil <a href="https://www.stone.com.br
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working as Software Developer at <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
-- 🌱  I'm an undergraduate student in Industrial Mathematics at [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
+- 👩🏻‍💻 I’m currently working as Software Developer at <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
+- 👩🏻‍🎓 I'm an undergraduate student in Industrial Mathematics at [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me **samyravlalmeida@gmail.com**.
 - 🚀 I’m currently learning Data Science on [udemy](https://www.udemy.com/).
