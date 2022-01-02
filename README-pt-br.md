@@ -1,7 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here! 
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Eu sou a <a href="#"> Samyra Almeida</a>, fico feliz em te ver por aqui! 
 
-Go to <a href="README-pt-br.md">Portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
-
+Ir para a <a href="README.md">versão em Inglês <img align="center" src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="15px"></a>
 
 <a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
@@ -16,27 +15,27 @@ Go to <a href="README-pt-br.md">Portuguese version <img align="center" src="http
   <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 <br>
 
-I'm a passionate BackEnd developer from Brazil <a href="#">
+Sou uma desenvolvedora BackEnd do Brasil <a href="#">
   <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
-**Talking about Personal Stuffs:**
+**Falando sobre algumas coisas pessoais:**
 
-- 👩🏻‍💻 I’m currently working as Software Developer at <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
-- 👩🏻‍🎓 I'm an undergraduate student in Industrial Mathematics at [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
-- 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me **samyravlalmeida@gmail.com**.
-- 🚀 I’m currently learning Data Science on [udemy](https://www.udemy.com/).
+- 👩🏻‍💻 Trabalho como Desenvolvedora de Software na <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
+- 👩🏻‍🎓 Sou estudante de Matemática Industrial na [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
+- 📫 Como me encontrar **samyravlalmeida@gmail.com**.
+- 🚀 Atualmente, estou aprendendo Ciência de Dados na [udemy](https://www.udemy.com/).
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**Esta semana passei meu tempo em**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samyraalmeida&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Linguagens de programação&nbsp;e&nbsp;Ferramentas</b></summary>
   <br/>
   <p align="left"> 
     <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" alt="apache-airflow" width="37" height="37"/></a>
@@ -54,16 +53,10 @@ I'm a passionate BackEnd developer from Brazil <a href="#">
  </details>
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Minhas&nbsp;Estatísticas&nbsp;do&nbsp;Github</b></summary>
   <br/>
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&text_color=5ec4ba" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple&text_color=5ec4ba" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&text_color=5ec4ba&custom_title=Estatísticas do meu github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple&text_color=5ec4ba&custom_title=Linguagens mais utilizadas" />
   </p>
 </details>
-
-
-
-
-
-
