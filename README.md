@@ -31,10 +31,11 @@ I'm a passionate BackEnd developer from Brazil <a href="#">
 - 📫 How to reach me **samyravlalmeida@gmail.com**.
 - 🚀 I’m currently learning Data Science on [udemy](https://www.udemy.com/).
 
+<!--
 📊 &nbsp;**This week I spent my time on**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=17b86e1d-b535-480d-aba9-42ed9172afa6&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+-->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
