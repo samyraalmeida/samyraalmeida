@@ -30,10 +30,11 @@ Sou uma desenvolvedora BackEnd do Brasil <a href="#">
 - 📫 Como me encontrar **samyravlalmeida@gmail.com**.
 - 🚀 Atualmente, estou aprendendo Ciência de Dados na [udemy](https://www.udemy.com/).
 
+<!--
 📊 &nbsp;**Esta semana passei meu tempo em**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samyraalmeida&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+-->
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Linguagens de programação&nbsp;e&nbsp;Ferramentas</b></summary>
   <br/>
