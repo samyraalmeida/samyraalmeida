@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="#"> Samyra Almeida</a>, glad to see you here! 
 
-Go to <a href="README-pt-br.md">Portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
+Go to <a href="README-pt-br.md">portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
 
 
 <a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
