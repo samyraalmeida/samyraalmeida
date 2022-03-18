@@ -12,18 +12,17 @@ Go to <a href="README-pt-br.md">Portuguese version <img align="center" src="http
 <a href="https://www.linkedin.com/in/samyraalmeida/">
   <img align="left" alt="Samyra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/samyy-02">
-  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
-<br>
-<br>
+<!--<a href="https://open.spotify.com/user/samyy-02">
+  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>-->
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})-->
 
+<br>
+<br>
 
 I'm a passionate Back-End developer from Brazil <a href="#">
-  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
-</a>
+  <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" /></a>
 
 **Talking about Personal Stuffs:**
 
