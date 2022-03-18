@@ -11,14 +11,16 @@ Ir para a <a href="README.md">versão em Inglês <img align="center" src="https:
 <a href="https://www.linkedin.com/in/samyraalmeida/">
   <img align="left" alt="Samyra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/samyy-02">
-  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
-![visitantes](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+<!--<a href="https://open.spotify.com/user/samyy-02">
+  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>-->
+<!--![visitantes](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})-->
+
+<br>
 <br>
 
-Sou uma desenvolvedora BackEnd do Brasil <a href="#">
+Sou uma desenvolvedora Back-End do Brasil <a href="#">
   <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
