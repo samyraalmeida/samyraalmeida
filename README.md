@@ -3,7 +3,7 @@
 Go to <a href="README-pt-br.md">portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
 
 
-<a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
+<a href="https://www.instagram.com/asamyraalmeida/" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
 </a>
 <a href="https://discordapp.com/users/735125769998565388">
@@ -60,6 +60,7 @@ I'm a passionate Back-End developer from Brazil <a href="#">
   <summary><b>📈&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b></summary>
   <br/>
   <p>
+    <a href="https://github.com/SamyraAlmeida">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&text_color=5ec4ba" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple&text_color=5ec4ba" />
   </p>
