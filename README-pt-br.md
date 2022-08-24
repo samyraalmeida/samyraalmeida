@@ -26,13 +26,16 @@ Sou uma desenvolvedora Back-End do Brasil <a href="#">
 
 **Algumas coisas sobre mim:**
 
-- 👩🏻‍💻 Trabalho como Desenvolvedora de Software na <a href="https://www.stone.com.br/">Stone</a> <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
+- 👩🏻‍💻 Trabalho como Trainee em Desenvolvedora de Software na <a href="https://www.caju.com.br/">Caju Benefícios</a> 
 - 👩🏻‍🎓 Sou estudante de Ciências da Computação na [Universidade Federal do Ceará (UFC)](https://www.ufc.br/).
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 - 📫 Como me encontrar **samyravlalmeida@gmail.com**.
-- 🚀 Atualmente, estou aprendendo Ciência de Dados na [udemy](https://www.udemy.com/).
 
 <!--
+- <a href="https://www.stone.com.br/"><img align="center" alt="Stone Co." width="18px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/stone.png" /></a>
+
+- 🚀 Atualmente, estou aprendendo Ciência de Dados na [udemy](https://www.udemy.com/).
+
 📊 &nbsp;**Esta semana passei meu tempo em**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=samyraalmeida&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
