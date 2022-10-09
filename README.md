@@ -4,7 +4,7 @@ Go to <a href="README-pt-br.md">portuguese version <img align="center" src="http
 
 
 <a href="https://instagram.com/https://www.instagram.com/asamyraalmeida/" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyraalmeida/" width="22px" />
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asamyra/" width="22px" />
 </a>
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
