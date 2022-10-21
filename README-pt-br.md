@@ -7,13 +7,13 @@ Ir para a <a href="README.md">versão em Inglês <img align="center" src="https:
 </a> -->
 
 <a href="https://www.instagram.com/iamsamyraalmeida/" target="blank">
-  <img align="left" alt="Samyra's Instagram" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/instagram.png" />
+  <img align="left" alt="Samyra's Instagram" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/instagram.png" />
 </a>
 <a href="https://discordapp.com/users/735125769998565388">
-  <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/discord.png" />
+  <img align="left" alt="Samyra's Discord" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/discord.png" />
 </a>
 <a href="https://www.linkedin.com/in/samyraalmmeida/">
-  <img align="left" alt="Samyra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/linkedin.png" />
+  <img align="left" alt="Samyra's LinkedIN" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/linkedin.png" />
 </a>
 
 <!--<a href="https://open.spotify.com/user/samyy-02">
