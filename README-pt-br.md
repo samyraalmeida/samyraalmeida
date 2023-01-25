@@ -1,4 +1,4 @@
-### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! Eu sou a <a href="#"> Samyra Almeida</a>, fico feliz em te ver por aqui! 
+### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a <a href="#"> Samyra Almeida</a>, fico feliz em te ver por aqui! 
 
 Ir para a <a href="README.md">versão em Inglês <img align="center" src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="15px"></a>
 
