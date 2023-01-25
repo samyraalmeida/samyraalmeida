@@ -6,15 +6,18 @@ Ir para a <a href="README.md">versão em Inglês <img align="center" src="https:
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samyalmeida/" width="22px" />
 </a> -->
 
-<a href="https://www.instagram.com/iamsamyraalmeida/" target="blank">
-  <img align="left" alt="Samyra's Instagram" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/instagram.png" />
+<a href="https://www.linkedin.com/in/samyraalmeida/">
+  <img align="left" alt="Samyra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://discordapp.com/users/735125769998565388">
-  <img align="left" alt="Samyra's Discord" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/discord.png" />
+  <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/samyraalmmeida/">
-  <img align="left" alt="Samyra's LinkedIN" width="30px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/png/linkedin.png" />
+
+<a href="https://www.instagram.com/iamsamyraalmeida/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamsamyraalmeida/" width="22px" />
 </a>
+
 
 <!--<a href="https://open.spotify.com/user/samyy-02">
   <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
