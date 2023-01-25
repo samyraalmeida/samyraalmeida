@@ -72,11 +72,11 @@ Sou uma desenvolvedora Back-End do Brasil <a href="#">
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="docker" width="40" height="40"/></a>-->
 
 
-<details>
+<!-- <details>
   <summary><b>📈&nbsp;&nbsp;Minhas&nbsp;Estatísticas&nbsp;do&nbsp;Github</b></summary>
   <br/>
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samyraalmeida&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight-purple&text_color=5ec4ba&custom_title=Estatísticas do meu github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyraalmeida&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple&text_color=5ec4ba&custom_title=Linguagens mais utilizadas" />
   </p>
-</details>
+</details> -->
