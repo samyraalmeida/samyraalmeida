@@ -3,8 +3,8 @@
 Go to <a href="README-pt-br.md">portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
 
 
-<a href="https://instagram.com/https://www.instagram.com/iamsamyalmeida/" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamsamyalmeida/" width="22px" />
+<a href="https://instagram.com/https://www.instagram.com/iamsamyraalmeida/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamsamyraalmeida/" width="22px" />
 </a>
 <a href="https://discordapp.com/users/735125769998565388">
   <img align="left" alt="Samyra's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
