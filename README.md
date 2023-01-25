@@ -61,7 +61,7 @@ I'm a passionate Back-End developer from Brazil <a href="#">
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
  </details>
 
-<details>
+<!-- <details>
   <summary><b>📈&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b></summary>
   <br/>
   <p>
@@ -71,7 +71,7 @@ I'm a passionate Back-End developer from Brazil <a href="#">
 </details>
 
 
-
+ -->
 
 
 
