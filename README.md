@@ -47,7 +47,7 @@ I'm a passionate Back-End developer from Brazil <a href="#">
     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.salesforce.com" target="_blank"><img src="/Users/user/Desktop/personal/github/samyraalmeida/assets/icons/svg/salesforce.svg" alt="salesforce" width="40" height="40"/></a> 
+    <a href="https://www.salesforce.com" target="_blank"><img src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/salesforce.svg" alt="salesforce" width="40" height="40"/></a> 
   </p>
  </details>
 
