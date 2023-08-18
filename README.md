@@ -3,16 +3,16 @@
 Go to <a href="README-pt-br.md">portuguese version <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
 
 <a href="https://www.linkedin.com/in/samyraalmeida/">
-  <img align="left" alt="Samyra's LinkedIN" width="22px" hspace="5" 
+  <img align="left" alt="Samyra's LinkedIN" width="22px" 
   src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/linkedin.svg"/>
 </a>
 
 <a href="https://open.spotify.com/user/samyy-02?si=b016202f65ca421b" target="blank">
-  <img align="left" alt="Samyra's Spotify" width="22px" hspace="5" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/spotify.svg"/>
+  <img align="left" alt="Samyra's Spotify" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/spotify.svg"/>
 </a>
 
 <a href="https://www.instagram.com/eusamyraalmeida/" target="blank">
-  <img align="left" alt="Samyra's Instagram" width="22px" hspace="5" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/instagram.svg"/>
+  <img align="left" alt="Samyra's Instagram" width="22px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/instagram.svg"/>
 </a>
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})-->
