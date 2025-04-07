@@ -20,13 +20,13 @@ Ir para a <a href="README.md">versão em Inglês <img align="center" src="https:
 <br>
 <br>
 
-Sou uma desenvolvedora Back-End do Brasil <a href="#">
+Sou uma Engenheira de Dados do Brasil <a href="#">
 <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" />
 </a>
 
 **Algumas coisas sobre mim:**
 
-- 👩🏻‍💻 Trabalho como Trainee em Desenvolvedora de Software na <a href="https://www.caju.com.br/">Caju Benefícios</a>.
+- 👩🏻‍💻 Trabalho como Engenheira de Dados na <a href="https://www.caju.com.br/">Caju Benefícios</a>.
 - 👩🏻‍🎓 Sou estudante de Ciências da Computação na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 - 📫 Como me encontrar **samyravlalmeida@gmail.com**.
