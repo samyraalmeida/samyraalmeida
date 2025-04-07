@@ -20,12 +20,12 @@ Go to <a href="README-pt-br.md">portuguese version <img align="center" src="http
 <br>
 <br>
 
-I'm a passionate Back-End developer from Brazil <a href="#">
+I'm a passionate Data Engineer from Brazil <a href="#">
 <img align="center" alt="Brazil" width="20px" src="https://raw.githubusercontent.com/samyraalmeida/samyraalmeida/master/assets/icons/svg/brazil-flag.svg" /></a>
 
 **Talking about Personal Stuffs:**
 
-- 👩🏻‍💻 I’m currently working as Software Development Trainee at <a href="https://www.caju.com.br/">Caju Benefícios</a>.
+- 👩🏻‍💻 I’m currently working as Data Engineer at <a href="https://www.caju.com.br/">Caju Benefícios</a>.
 - 👩🏻‍🎓 I'm an undergraduate student in Computer Science at  <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a>.
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me **samyravlalmeida@gmail.com**.
